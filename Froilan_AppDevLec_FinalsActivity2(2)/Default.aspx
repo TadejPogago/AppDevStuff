@@ -8,6 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <h2>Students' Records Web App</h2>
         <div>
             <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
         </div>
